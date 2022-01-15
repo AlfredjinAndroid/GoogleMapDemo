@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+
+    <string name="main_map">谷歌地图</string>
+    <string name="main_web">WebView适配主题</string>
+    <string name="main_theme">主题设置</string>
+
+    <string name="theme_auto">跟随系统</string>
+    <string name="theme_light">浅色模式</string>
+    <string name="theme_dark">深色模式</string>
+
+    <string name="card_price">Price : %s</string>
+    <string name="card_address">Address : %s</string>
+    <string name="card_status">Status : %s</string>
+</resources>
