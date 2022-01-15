@@ -1,4 +1,4 @@
-<center># Google Map Demo</center>
+# Google Map Demo
 
 - [x] Google Map
 - [x] 主题适配
